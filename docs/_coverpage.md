@@ -4,14 +4,12 @@
 
 
 
-- Java学习笔记，面试突击宝典，主要来源于B站上视频的学习，同时会记录平时一些学习和项目中遇到的问题，同步更新在蘑菇博客，如果对我的博客网站感兴趣的话，
+- 学习笔记、论文阅读摘要、算法刷题，同时会记录平时一些学习和项目中遇到的问题。
 
-[![star](https://gitee.com/veal98/CS-Wiki/badge/star.svg?theme=dark)](https://gitee.com/veal98/CS-Wiki/stargazers)
-[![fork](https://gitee.com/veal98/CS-Wiki/badge/fork.svg?theme=dark)](https://gitee.com/veal98/CS-Wiki/members)
-[![GitHub stars](https://img.shields.io/github/stars/Veal98/CS-Wiki?logo=github)](https://github.com/Veal98/CS-Wiki/stargazers)
+[![star](https://gitee.com/Reanon/notes/badge/star.svg?theme=dark)](https://gitee.com/Reanon/notes/stargazers)[![fork](https://gitee.com/Reanon/notes/badge/fork.svg?theme=dark)](https://gitee.com/Reanon/notes/members)[![GitHub stars](https://img.shields.io/github/stars/Veal98/CS-Wiki?logo=github)](https://github.com/Veal98/CS-Wiki/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Veal98/CS-Wiki?logo=github)](https://github.com/Veal98/CS-Wiki/network)
 
-[Gitee](<https://gitee.com/moxi159753/LearningNotes>)
+[Gitee](https://gitee.com/Reanon/notes)
 [Github](<https://github.com/moxi624/LearningNotes>)
 [开始阅读](README.md)
 

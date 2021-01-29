@@ -1,8 +1,7 @@
 <!-- _navbar.md -->
 
-* 入门
-
-  * [ 快速开始](zh-cn/quickstart.md)
+* [Java](Java/)
+  * [ Java 基础](Java/Java基础)
   * [:cn:多页文档](zh-cn/more-pages.md)
   * [定制导航栏](zh-cn/custom-navbar.md)
   * [封面](zh-cn/cover.md)

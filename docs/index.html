@@ -2,63 +2,144 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <!-- 标注网页名称 -->
+  <title>GuaGua Notes</title>
+
+  <!-- 解除其他平台的防盗链 -->
+  <meta name="referrer" content="never">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+   <!-- 添加一种样式 -->
+  <link rel="stylesheet" type="text/css" href="style/myStyle-light.css"/>
+  <!-- alert -->
+  <link rel="stylesheet" href="https://cdn.bootcss.com/sweetalert/1.1.3/sweetalert.min.css" type='text/css' media='all' />
+  <!-- latex -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" />
+  
+  <!--指定网页标题左侧显示的图标-->
+  <link rel="icon" href="https://aliyun-typora-img.oss-cn-beijing.aliyuncs.com/imgs/20210129163850.png" type="image/x-icon">
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <!--收藏夹显示图标-->
+  <link rel="shortcut icon" href="https://aliyun-typora-img.oss-cn-beijing.aliyuncs.com/imgs/20210129163850.png" type="image/x-icon">
+
 </head>
-<body>
-  <div id="app"> 🏃‍🏃‍🏃‍💨加载中 </div>
+<body background="" style=" background-repeat:no-repeat ;background-size:100% 100%;background-attachment: fixed;">
+  <div id="app" >🏃‍🏃‍🏃‍💨加载中...</div>
+  <a class="to-top">Top</a>
+  
   <script>
+    
     window.$docsify = {
-      // 增加页面名称
-      name: '📖 Reanon Notes',  
-      repo: '',
-      // 显示侧边栏：定义 _sidebar.md
-      loadSidebar: true,
-      // 侧边栏 开启 2级 目录
-      subMaxLevel: 2,
+      // 增加左上角名称
+      name: '📚 呱呱笔记本',
+      // 增加指向链接
+      nameLink: 'http://reanon.gitee.io/notes/#/',
+      logo: '',
+      // repo: 'http://reanon.gitee.io/notes/',
+      themeColor: 'rgb(102, 126, 233)',
       // 配置导航栏：创建 _navbar.md
       loadNavbar: true,
+
+      auto2top:true,
+
       // 开启封面：_coverpage.md
       coverpage: true,
       // 只显示封面
-      onlyCover: true, 
+      onlyCover: true,
 
-      //增加搜索框
+      topMargin: 140,
+
+      // 增加搜索框
       search: {
         paths: 'auto',
-        placeholder: '🔍 搜索',
-        noData: '😒 找不到结果',
+        placeholder: '🔍 在这里搜搜看',
+        noData: '😰 没有内容',
         // Headline depth, 1 - 6
         depth: 6,
         maxAge: 86400000, // 过期时间，单位毫秒，默认一天
       },
+   
       footer: {
-        copy: 'Copyright &copy; 2021 💖 </span>',
+        copy: 'Copyright &copy; 2021 🐸 </span>',
         auth: ' <strong>Reanon</strong>',
         pre: '<hr/>',
         style: 'text-align: center;',
+      },
+      // 复制内容
+      copyCode: {
+          buttonText: 'Copy',
+          errorText: 'Error',
+          successText: 'OK!'
+      },
+
+      'flexible-alerts': {
+        style: 'flat'
       }
+
+       
     }
   </script>
-
-  <!-- 官方教程中 -->
+ 
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <!-- 整合emoji插件 -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
-  <!-- 引入搜索模块 -->
-  <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.11.2/plugins/search.min.js"></script>
-
+  <!-- 图片缩放插件 -->
+  <script src="//cdn.jsdelivr.net/docsify/lib/plugins/zoom-image.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <!-- 添加一键拷贝代码-->
-  <script src="//unpkg.com/docsify-copy-code"></script></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+  <!-- 引入搜索模块 -->
+  <script src="https://cdn.bootcss.com/docsify/4.5.9/plugins/search.min.js"></script>
 
   <!-- 添加代码高亮 -->
-  <script src="//unpkg.com/prismjs/components/prism-bash.js"></script>  
-  <script src="//unpkg.com/prismjs/components/prism-java.js"></script>  
-  <script src="//unpkg.com/prismjs/components/prism-sql.js"></script>
-  <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
-  <script src="//unpkg.com/prismjs/components/prism-sql.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-java.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-python.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-cpp.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-c.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-javascript.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-css.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-powershell.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-sql.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-yaml.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-properties.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs/components/matlab.min.js"></script>
+
+  <!-- CDN files for docsify-katex -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
+  
+  <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+  
+  <!-- 复制提醒 -->
+  <script src="https://cdn.bootcss.com/sweetalert/1.1.3/sweetalert.min.js"></script>
+  <script>
+    document.body.oncopy = function () { 
+      swal("复制成功 🎉", 
+        "学习是一个不断模仿、练习、创新、超越的过程，感谢你的阅读，祝你学习愉快~😋", 
+        "success"); };
+  </script>
+
+  <!-- PWA 离线化 -->
+  <script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('pwa.js')
+    }
+  </script>
+  
+  <!-- 访问量统计 -->
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+  <!-- 置顶插件 -->
+  <script src="style/jquery-1.11.3.min.js"></script>
+  <script src="style/jquery.toTop.min.js"></script>
+  <script>
+    $('.to-top').toTop();
+  </script>
+
+  <!-- Markdown 引用样式美化 -->
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+
 </body>
 </html>
