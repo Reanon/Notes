@@ -11,7 +11,6 @@ h2 span{
   padding:  10px  16px;
   border-radius:5px;
   box-shadow: 2px 2px 5px rgb(216, 216, 216);
-
 }
 /* .content{
   width:1000px;
@@ -25,13 +24,9 @@ h2 span{
 
 💡 **「关于」**
 
-- 🎓 博主东南大学研一在读，算法岗诸神黄昏已人尽皆知，遂决定深耕 Java，致力全栈。本仓库用于记录学习过程中的所思所想，并力图构建一个完善的知识体系，便于复习巩固
-
-- 🙏 由于本人水平有限，仓库中的知识点来自本人原创、视频、书籍、博客等，非原创均已标明出处（或在参考资料中列出），如有遗漏或发现文章错误及排版问题，请提 issue 或 PR
-
-- ⚡ **[Gitee 在线阅读（国内访问速度较快）](https://veal98.gitee.io/cs-wiki)** | [Gitee 仓库地址（推荐）](https://gitee.com/veal98/CS-Wiki)
-
-- 🔮 [Github 在线阅读](https://veal98.github.io/CS-Wiki/) | [Github 仓库地址](https://github.com/Veal98/CS-Wiki)
+- 📚 学习是一个不断模仿、练习、创新、超越的过程，一起努力吧，呱呱~ 🐸
+- ⚡ [Gitee 在线阅读](https://reanon.gitee.io/notes/) | [Gitee 仓库地址](https://gitee.com/Reanon/notes)
+- 🔮 Github 在线阅读 | Github 仓库地址
 
 ## 📑 计算机基础
 
