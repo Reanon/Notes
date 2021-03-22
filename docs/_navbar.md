@@ -1,15 +1,11 @@
 <!-- _navbar.md -->
 
-* [Java](Java/)
-  * [ Java 基础](Java/Java基础)
-  * [:cn:多页文档](zh-cn/more-pages.md)
-  * [定制导航栏](zh-cn/custom-navbar.md)
-  * [封面](zh-cn/cover.md)
+* [DS&Algorithm](00 DS&Algorithm/)
+  * [数据结构](00 DS&Algorithm/01 数据结构/)
+  * [算法](00 DS&Algorithm/02 算法/)
+  * [剑指 Offer](00 DS&Algorithm/03 剑指 Offer/)
 
 
-* 配置
-  * [配置项](zh-cn/configuration.md)
-  * [主题](zh-cn/themes.md)
-  * [使用插件](zh-cn/plugins.md)
-  * [Markdown 配置](zh-cn/markdown.md)
-  * [代码高亮](zh-cn/language-highlight.md)
+* [Java](01 Java/)
+  * [Java 基础](01 Java/01 Java 基础/)
+

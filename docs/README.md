@@ -28,10 +28,30 @@ h2 span{
 - ⚡ [Gitee 在线阅读](https://reanon.gitee.io/notes/) | [Gitee 仓库地址](https://gitee.com/Reanon/notes)
 - 🔮 Github 在线阅读 | Github 仓库地址
 
-
 ## 📑 计算机基础
 
 ---
+
+* [DS&Algorithm](00 DS&Algorithm/)
+  - [数据结构](00 DS&Algorithm/01 数据结构/)
+  - [算法](00 DS&Algorithm/02 算法/)
+
+## 🔥 LeetCode 刷题指南
+
+---
+
+- [剑指 Offer](00 DS&Algorithm/03 剑指 Offer/)
+
+
+
+## 🍵 Java
+
+----
+
+> 所有笔记和代码均基于 **Java 8** 版本，基本大部分的包含 Java 语言的全部核心知识点。
+
+- [Java](01 Java/)
+  * [Java 基础](01 Java/01 Java 基础/)
 
 
 
