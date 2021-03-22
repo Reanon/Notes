@@ -4,13 +4,12 @@
 
 
 
-- 学习笔记、论文阅读摘要、算法刷题，同时会记录平时一些学习和项目中遇到的问题。
+- 后端学习的笔记、LeetCode算法刷题
 
-[![star](https://gitee.com/Reanon/notes/badge/star.svg?theme=dark)](https://gitee.com/Reanon/notes/stargazers)[![fork](https://gitee.com/Reanon/notes/badge/fork.svg?theme=dark)](https://gitee.com/Reanon/notes/members)[![GitHub stars](https://img.shields.io/github/stars/Veal98/CS-Wiki?logo=github)](https://github.com/Veal98/CS-Wiki/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Veal98/CS-Wiki?logo=github)](https://github.com/Veal98/CS-Wiki/network)
+[![star](https://gitee.com/Reanon/notes/badge/star.svg?theme=dark)](https://gitee.com/Reanon/notes/stargazers)[![fork](https://gitee.com/Reanon/notes/badge/fork.svg?theme=dark)](https://gitee.com/Reanon/notes/members)
 
 [Gitee](https://gitee.com/Reanon/notes)
-[Github](<https://github.com/moxi624/LearningNotes>)
+
 [开始阅读](README.md)
 
 <!-- background image -->

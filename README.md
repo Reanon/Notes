@@ -6,3 +6,33 @@
 - 📚 学习是一个不断模仿、练习、创新、超越的过程，一起努力吧，呱呱~ 🐸
 - ⚡ [Gitee 在线阅读](https://reanon.gitee.io/notes/) | [Gitee 仓库地址](https://gitee.com/Reanon/notes)
 - 🔮 Github 在线阅读 | Github 仓库地址
+
+## 📑 计算机基础
+
+### 算法 Algorithm
+
+### Linux
+
+
+
+## :pencil2: LeetCode 刷题
+
+
+
+## 🍵 Java
+
+### Java 基础
+
+> [!WARNING]
+> 所有笔记和代码均基于 **Java 8** 版本，基本包含 Java 语言的全部核心知识点。
+
+
+
+### Java 虚拟机
+
+> [!NOTE]
+
+### 设计模式
+
+> [!NOTE]
+> 设计模式是**解决问题的方案**，学习现有的设计模式可以做到经验复用。拥有设计模式词汇，在沟通时就能用更少的词汇来讨论，并且不需要了解底层细节。
