@@ -24,7 +24,7 @@ h2 span{
 
 💡 **「关于」**
 
-- 📚 学习是一个不断模仿、练习、创新、超越的过程，一起努力吧，呱呱~ 🐸
+- 📚 学习是一个不断模仿、练习、创新、超越的过程，一起努力吧~
 - ⚡ [Gitee 在线阅读](https://reanon.gitee.io/notes/) | [Gitee 仓库地址](https://gitee.com/Reanon/notes)
 - 🔮 Github 在线阅读 | Github 仓库地址
 
@@ -74,7 +74,6 @@ h2 span{
 - [17-最短路径算法](00-DS&Algorithm/02-算法/17-最短路径算法.md)
 
 ## 🔥 LeetCode 刷题指南
-
 ---
 
 ### ⚔️剑指 Offer 
@@ -84,7 +83,6 @@ h2 span{
 
 
 ## 🍵 Java
-
 ----
 
 > [!WARNING]
@@ -105,5 +103,89 @@ h2 span{
 
 ### Java 虚拟机
 
-### 
 
+
+### Java 并发与多线程
+
+## 📂 数据库
+---
+
+> [!WARNING|label:注意区分下数据库和 ORM 框架！]
+>
+> **数据库**：存储数据。常见的数据库如：
+>
+> - MySQL
+> - Oracle
+>
+> **ORM 框架**：`Object Relational Mapping` 对象关系映射，将实体类对象持久化到数据库中。可以简单的认为 ORM 框架就是用来操作数据库的。常见的 ORM 框架如：
+>
+> - JDBC
+> - MyBatis （常见组合为 <u>Spring + SpringMVC</u> / Spring Boot + MyBatis + 数据库）
+> - Hibernate（常见组合为 Spring Boot + Hibernate + Spring Data JPA + 数据库）
+
+### MySQL
+
+**MySQL 基础**
+
+- [01-初识MySQL](02-数据库/01-MySQL基础/01-初识MySQL.md)
+- [02-DQL语言](02-数据库/01-MySQL基础/02-DQL语言.md)
+- [03-DML语言](02-数据库/01-MySQL基础/03-DML语言.md)
+- [04-DDL语言](02-数据库/01-MySQL基础/04-DDL语言.md)
+- [05-TCL语言](02-数据库/01-MySQL基础/05-TCL语言.md)
+- [06-变量](02-数据库/01-MySQL基础/06-变量.md)
+- [07-存储过程和函数](02-数据库/01-MySQL基础/07-存储过程和函数.md)
+- [08-流程控制结构](02-数据库/01-MySQL基础/08-流程控制结构.md)
+- [09-视图](02-数据库/01-MySQL基础/09-视图.md)
+
+**MySQL 进阶**
+
+
+
+### Redis
+
+
+
+## 📚 必备框架
+
+----
+
+### MyBatis 
+
+> [!TIP]
+> MyBatis 是一个优秀的基于 java 的**持久层框架**，内部封装了 jdbc，开发者只需要关注 sql 语句本身，而不需要处理加载驱动、创建连接、创建 statement、关闭连接，资源等繁杂的过程。
+
+- [01-MyBatis-入门](03-必备框架/01-MyBatis/01-MyBatis-入门.md)：快速使用 MyBatis
+- [02-MyBatis-框架](03-必备框架/01-MyBatis/02-MyBatis-框架.md)：MyBatis 框架必知必会
+- [03-MyBatis-配置](03-必备框架/01-MyBatis/03-MyBatis-配置.md)：MyBatis 配置项都有啥？
+
+### Spring MVC
+
+
+
+### Spring
+
+
+
+### SpringBoot 
+
+## 🔨 开发工具
+----
+### IDE 
+
+- IDEA
+- VSCode
+- 
+
+### Git
+
+
+
+### Docker
+
+
+
+### Maven 
+
+
+
+### Docsify
