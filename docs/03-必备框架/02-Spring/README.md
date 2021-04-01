@@ -1,12 +1,6 @@
-# 📚 必备框架
 
-## 🕊MyBatis
 
-- [01-MyBatis-入门](03-必备框架/01-MyBatis/01-MyBatis-入门.md)
-- [02-MyBatis-框架](03-必备框架/01-MyBatis/02-MyBatis-框架.md)
-- [03-MyBatis-配置](03-必备框架/01-MyBatis/03-MyBatis-配置.md)
-
-## 🍃Spring
+# 🍃Spring
 
 - [01-Spring介绍](03-必备框架/02-Spring/01-Spring介绍.md)
 - [02-IoC控制反转](03-必备框架/02-Spring/02-IoC控制反转.md)
