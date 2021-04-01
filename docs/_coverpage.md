@@ -8,10 +8,8 @@
 
 [![star](https://gitee.com/Reanon/notes/badge/star.svg?theme=dark)](https://gitee.com/Reanon/notes/stargazers)[![fork](https://gitee.com/Reanon/notes/badge/fork.svg?theme=dark)](https://gitee.com/Reanon/notes/members)
 
-[Gitee](https://gitee.com/Reanon/notes)
-
-[开始阅读](README.md)
+[Gitee](https://gitee.com/Reanon/notes) [开始阅读](README.md)
 
 <!-- background image -->
 
-![](https://www.recoluan.com/assets/img/bg.2cfdbb33.svg)
+![bg.2cfdbb33](https://aliyun-typora-img.oss-cn-beijing.aliyuncs.com/imgs/20210401170605.svg)
