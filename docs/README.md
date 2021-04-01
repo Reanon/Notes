@@ -26,7 +26,7 @@ h2 span{
 
 - 📚 学习是一个不断模仿、练习、创新、超越的过程，一起努力吧~
 - ⚡ [Gitee 在线阅读](https://reanon.gitee.io/notes/) | [Gitee 仓库地址](https://gitee.com/Reanon/notes)
-- 🔮 Github 在线阅读 | Github 仓库地址
+- ✨ [Github 在线阅读](https://reanon.github.io/Notes/) | [Github 仓库地址](https://github.com/Reanon/Notes)
 
 ## 📑 计算机基础
 
@@ -170,7 +170,7 @@ h2 span{
 - [03-AOP面向切面编程](03-必备框架/02-Spring/03-AOP面向切面编程.md)
 - [04-Spring集成MyBatis](03-必备框架/02-Spring/04-Spring集成MyBatis.md)
 - [05-Spring事务](03-必备框架/02-Spring/05-Spring事务.md)
-- [06-Spring与Web](
+- [06-Spring与Web](03-必备框架/02-Spring/06-Spring与Web.md)
 
 ### Spring MVC
 

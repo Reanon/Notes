@@ -8,7 +8,7 @@
 
 [![star](https://gitee.com/Reanon/notes/badge/star.svg?theme=dark)](https://gitee.com/Reanon/notes/stargazers)[![fork](https://gitee.com/Reanon/notes/badge/fork.svg?theme=dark)](https://gitee.com/Reanon/notes/members)
 
-[Gitee](https://gitee.com/Reanon/notes) [开始阅读](README.md)
+[Gitee](https://gitee.com/Reanon/notes)  [Github ](https://github.com/Reanon/Notes) [开始阅读](README.md)
 
 <!-- background image -->
 
